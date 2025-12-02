@@ -1,1 +1,1 @@
-# ALB
+I wrote a tf file for my auto-scalling my EC2 apply loadbalancers to handle the traffic and divide it into multiple EC2 instances and also attached a target group and the server autoscale up and down according to its need.
